@@ -1,2 +1,4 @@
 Mi nombre es Uriel Maceri, soy desarrollador de software. Tengo 23 años y vivo en Buenos Aires, Argentina.
-Actualmente estoy estudiando una Tecnicatura en Desarrollo de Software en IFTS Nº18. Intento aprender por mi cuenta diferentes tecnicas y lenguajes de programación, me gusta mucho el tema. Por otro lado, tambien me apasiona el tema ciberseguridad, estoy estudiando paralelamente tecnicas tanto de Blue Team como Red Team.
+Actualmente estoy estudiando una Tecnicatura en Desarrollo de Software en IFTS Nº18. 
+Intento aprender por mi cuenta diferentes tecnicas y lenguajes de programación, me gusta mucho el tema. 
+Por otro lado, tambien me apasiona el tema ciberseguridad, estoy estudiando paralelamente tecnicas tanto de Blue Team como Red Team.
